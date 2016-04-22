@@ -1,0 +1,98 @@
+[1]	Schlaich M. Challenges in Education--Conceptual and Structural Design. IABSE Symp. Rep., vol. 92, 2006, p. 20–6.
+[2]	Mueller CT. Computational exploration of the structural design space. Massachusetts Institute of Technology, 2014.
+[3]	Hsu W, Liu B. Conceptual design: issues and challenges. Comput Des 2000;32:849–50. doi:10.1016/S0010-4485(00)00074-9.
+[4]	Sakamoto T, Ferré A. Intro. From Control to Des. Parametr. Archit., Actar-D; 2008, p. 5.
+[5]	Mueller C, Ochsendorf J. An Integrated Computational Approach for Creative Conceptual Structural Design. In: Obrębski JB, editor. IASS, 2013.
+
+[6]	Schlaich M. Challenges in Education–Conceptual and Structural Design. vol. 92. 31st ed., International Association for Bridge and Structural Engineering; 2006, p. 20–6.
+[7]	Bathe K-J. Finite element procedures. Klaus-Jurgen Bathe; 2006.
+[8]	Fröderberg M, Crocetti R. Engineers in need of an improved conceptual design toolbox. vol. 102. 37th ed., International Association for Bridge and Structural Engineering; 2014, p. 515–21.
+[9]	Häggman A, Tsai G, Elsen C, Honda T, Yang MC. Connections Between the Design Tool, Design Attributes, and User Preferences in Early Stage Design. J Mech Des 2015;137:71408. doi:10.1115/1.4030181.
+[10]	Mueller CT. Computational Exploration of the Structural Design Space. 2014.
+[11]	Addis W. Building: 3000 years of design engineering and construction. Phaidon; 2007.
+[12]	Todisco L, Fivet C, Corres-Peiretti H, Mueller C. Design and exploration of externally post-tensioned structures using graphic statics. J Int Assoc Shell Spat Struct 2015;In press:249–58.
+
+[13]	Made by Robots: Challenging Architecture at a Larger Scale. Wiley; 2014.
+[14]	Stromberg LL, Beghini A, Baker WF, Paulino GH. Topology optimization for braced frames: Combining continuum and beam/column elements. Eng Struct 2012;37:106–24. doi:10.1016/j.engstruct.2011.12.034.
+
+[15]	Shneiderman B. The future of interactive systems and the emergence of direct manipulation. Behav Inf Technol 1982;1:237–56.
+
+[16]	Shneiderman B. Direct Manipulation for Comprehensible, Predictable and Controllable User Interfaces. Proc. 2Nd Int. Conf. Intell. User Interfaces, New York, NY, USA: ACM; 1997, p. 33–9. doi:10.1145/238218.238281.
+
+[17]	Sears A, Plaisant C, Shneiderman B. A new era for high precision touchscreens. Adv Human-Computer Interact 1990;3.
+
+[18]	Tufte E. Visual explanations : images and quantities, evidence and narrative. Cheshire, Conn: Graphics Press; 1997.
+[19]	Tufte E. Envisioning information. Cheshire, Connecticut: Graphics Press; 1990.
+[20]	Tufte E. The visual display of quantitative information. Cheshire, Conn: Graphics Press; 2001.
+
+[21]	Nielson GM, Olsen Jr. DR. Direct Manipulation Techniques for 3D Objects Using 2D Locator Devices. Proc. 1986 Work. Interact. 3D Graph., New York, NY, USA: ACM; 1987, p. 175–82. doi:10.1145/319120.319134.
+[22]	Leap Motion. Leap Motion Launches World’s Most Accurate 3-D Motion Control Technology for Computin 2013. https://www.leapmotion.com/news/leap-motion-launches-world-s-most-accurate-3-d-motion-control-technology-for-computing (accessed October 22, 2015).
+
+[23]	Kosmadoudi Z, Lim T, Ritchie J, Louchart S, Liu Y, Sung R. Engineering design using game-enhanced CAD: The potential to augment the user experience with game elements. Comput Des 2013;45:777–95. doi:10.1016/j.cad.2012.08.001.
+
+
+————Korrekt hit!!!
+
+[24]	Nintendo. Nintendo Wii n.d. http://www.nintendo.com/wiiu (accessed October 13, 2015).
+[25]	Microsoft. Kinect n.d. http://www.xbox.com/en-US/xbox-360/accessories/kinect (accessed October 13, 2015).
+[26]	Playstation. Playstation Move n.d. https://www.playstation.com/en-us/explore/accessories/playstation-move/ (accessed October 14, 2015).
+[27]	Oculus Rift n.d. https://www.oculus.com/ (accessed October 23, 2015).
+[28]	Playstation. Project Morpheus n.d. https://www.playstation.com/en-us/explore/project-morpheus/ (accessed October 23, 2015).
+[29]	Fogarty J, El-Tawil S. Exploring Complex Spatial Arrangements and Deformations in Virtual Reality. Struct. Congr. 2014, n.d., p. 1089–96. doi:http://dx.doi.org/10.1061/9780784413357.097.
+
+[30]	Veenendaal D, Block P. An overview and comparison of structural form finding methods for general networks. Int J Solids Struct 2012;49:3741–53. doi:10.1016/j.ijsolstr.2012.08.008.
+[31]	Schek H-J. The force density method for form finding and computation of general networks. Comput Methods Appl Mech Eng 1974;3:115–34.
+[32]	Day AS. An introduction to Dynamic Relaxation. Eng 1965;219.
+[33]	Barnes MR. Form-finding and analysis of prestressed nets and membranes. Comput Struct 1988;30:685–95.
+
+[34]	Alic V, Persson K. Form finding with dynamic relaxation and isogeometric membrane elements. Comput Methods Appl Mech Eng 2015;300:734–47. doi:10.1016/j.cma.2015.12.009.
+
+[35]	Amthony Michell. LVIII. The limits of economy of material in frame-structures. Philos Mag Ser 6 1904;8:589–97. doi:10.1080/14786440409463229.
+
+[36]	Clune R. Algorithm Selection in Structural Optimization. Massachussets Institute of Technology, 2013.
+
+[37]	Christensen PW, Klarbring A. An introduction to structural optimization. vol. 153. Springer Science & Business Media; 2008.
+
+[38]	Bangert P. Overview of Heuristic Optimization. Optim. Ind. Probl. SE - 1, Springer Berlin Heidelberg; 2012. doi:10.1007/978-3-642-24974-7_1.
+
+[39]	Goldberg DE. Genetic Algorithms in Search, Optimization, and Machine Learning. Addison-Wesley; 1989.
+
+[40]	M. D. McKay R. J. Beckman WJC. A Comparison of Three Methods for Selecting Values of Input Variables in the Analysis of Output from a Computer Code. Technometrics 1979;21:239–45.
+
+[41]	Scott SD, Lesh N, Klau GW. Investigating human-computer optimization. Proc SIGCHI Conf Hum Factors Comput Syst Chang Our World, Chang Ourselves - CHI ’02 2002:155. doi:10.1145/503403.503405.
+
+[42]	Deb K, Pratap A, Agarwal S, Meyarivan T. A fast and elitist multiobjective genetic algorithm: NSGA-II. Evol Comput IEEE Trans 2002;6:182–97.
+[43]	Bendsøe MP, Sigmund O. Topology Optimization. 2009.
+[44]	Olsson K-G, Thelin C. Use of static eigenmodes in mechanical design. Chalmers university of technology School of architecture; 2003.
+
+[45]	Olsson P. Conceptual studies in structural design: pointSketch-a computer based approach for use in early stages of the architectural process. Chalmers University, 2006.
+[46]	Culmann K. Die graphische Statik. 1866.
+
+[47]	Block P. eQUILIBRIUM n.d. http://block.arch.ethz.ch/equilibrium/ (accessed January 12, 2016).
+[48]	Fivet C, Zastavni D. Constraint-based graphic statics: New paradigms of computer-aided structural equilibrium design. J Int Assoc Shell Spat Struct 2013;54:271–80.
+
+
+
+
+[49]	Aish R, Woodbury R. Multi-level interaction in parametric design. Springer Berlin Heidelberg; 2005.
+[50]	Rhinoceros 3D n.d. http://www.rhino3d.com/ (accessed January 5, 2016).
+[51]	Grasshopper n.d. http://www.grasshopper3d.com/ (accessed October 5, 2015).
+[52]	Dynamo n.d. http://www.autodesk.com/products/dynamo-studio/overview (accessed November 5, 2015).
+[53]	Karamba n.d. http://www.karamba3d.com/ (accessed October 5, 2015).
+[54]	Shea K, Aish R, Gourtovaia M. Towards integrated performance-driven generative design tools. Autom Constr 2005;14:253–64. doi:10.1016/j.autcon.2004.07.002.
+[55]	Martini K. A new kind of software for teaching structural behavior and design. In: Oakley D, Smit R, editors. 2006 Build. Technol. Educ. Symp. Proc., University of Maryland; 2006, p. 279.
+[56]	Autodesk. Industry First: Autodesk Takes Simulation Mobile with New ForceEffect App for iPad 2011. http://news.autodesk.com/press-release/industry-first-autodesk-takes-simulation-mobile-new-forceeffect-app-ipad (accessed October 22, 2015).
+[57]	CSIAmerica. SAP2000 n.d. http://www.csiamerica.com/products/sap2000 (accessed January 21, 2016).
+[58]	Clune R, Connor JJ, Ochsendorf JA, Kelliher D. An object-oriented architecture for extensible structural design software. Comput &amp; Struct 2012;100:1–17.
+[59]	Senatore G, Piker D. Interactive real-time physics. Comput Des 2015;61:32–41. doi:10.1016/j.cad.2014.02.007.
+[60]	ActiveStatics n.d. http://acg.media.mit.edu/people/simong/statics/Start.html (accessed January 12, 2016).
+[61]	CADenary n.d. http://designexplorer.net/newscreens/cadenarytool/cadenarytool.html (accessed January 12, 2016).
+[62]	Von Buelow P. Suitability of genetic based exploration in the creative design process. Digit Creat 2008;19:51–61.
+[63]	Mueller C. StructureFIT n.d. http://www.caitlinmueller.com/structurefit/ (accessed October 16, 2015).
+[64]	Mueller CT, Ochsendorf JA. Combining structural performance and designer preferences in evolutionary design space exploration. Autom Constr 2015;52:70–82. doi:10.1016/j.autcon.2015.02.011.
+[65]	Danhaive RA, Mueller CT. Combining parametric modeling and interactive optimization for high-performance and creative structural design. IASS - Annu. Int. Symp. Futur. Vis., Amsterdam: 2015.
+[66]	Lindemann J, Sandberg G, Olsson K-G. An approach to teaching architectural and engineering students utilizing computational mechanics software ForcePAD. ITcon 2004;9:219–28.
+[67]	Aage N, Nobel-Jørgensen M, Andreasen CS, Sigmund O. Interactive topology optimization on hand-held devices. Struct Multidiscip Optim 2013;47:1–6.
+[68]	Apple. iPad n.d. http://www.apple.com/ipad/ (accessed January 20, 2016).
+[69]	Lindemann J, Dahlblom O, Sandberg G. ObjectiveFrame-An educational tool for understanding the behaviour of structures. Appl. Virtual Real. Eng. Constr. Appl. Virtual Real. Curr. Initiat. Futur. Challenges AVR II CONVR, 2001.
+[70]	Fonseca J. The Loadpath - a way to understand the quality of structures. Int. Colloq. Comput. shell Spat. Struct., Taipei: 1997.
