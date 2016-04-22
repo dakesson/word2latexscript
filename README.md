@@ -1,0 +1,1 @@
+Work in progress, reads a file where every row is a reference (say from word). Parses the title and finds the label that matches that title the best in the bib file. The tex document is then search and replaces for this label
